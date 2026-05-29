@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MediBook/static/css/main.82349b67.css",
+    "main.js": "/MediBook/static/js/main.2baaa17b.js",
+    "index.html": "/MediBook/index.html",
+    "main.82349b67.css.map": "/MediBook/static/css/main.82349b67.css.map",
+    "main.2baaa17b.js.map": "/MediBook/static/js/main.2baaa17b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82349b67.css",
+    "static/js/main.2baaa17b.js"
+  ]
+}
