@@ -8,7 +8,7 @@ import './index.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/MediBook">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
